@@ -1,0 +1,1 @@
+The Router API is designed to forward API Server management service requests to the specified API Server instance. Upon successful calling of the management service on the API Server instance the response is sent back to the client.
